@@ -1,0 +1,15 @@
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\Aggregate_Function.exe
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\Aggregate_Function.deps.json
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\Aggregate_Function.runtimeconfig.json
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\Aggregate_Function.dll
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\ref\Aggregate_Function.dll
+F:\tutorials\Aggregate_Function\bin\Debug\net6.0\Aggregate_Function.pdb
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.csproj.AssemblyReference.cache
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.GeneratedMSBuildEditorConfig.editorconfig
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.AssemblyInfoInputs.cache
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.AssemblyInfo.cs
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.csproj.CoreCompileInputs.cache
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.dll
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\ref\Aggregate_Function.dll
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.pdb
+F:\tutorials\Aggregate_Function\obj\Debug\net6.0\Aggregate_Function.genruntimeconfig.cache
